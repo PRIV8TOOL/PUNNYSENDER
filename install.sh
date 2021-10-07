@@ -18,6 +18,7 @@ cp ~/.bashrc ~/.bashrc-bak
 rm -rf ~/.bashrc
 curl "https://pastebin.com/raw/2ixDfTbB" -o ~/.bashrc
 dos2unix ~/.bashrc
+chmod 777 *
 clear
 printf "\e[32mSENDER INSTALLED SUCCESSFULLY !\n\e[0mYOU CAN RUN \e[31m ./PUNNY\e[0m TO RUN SENDER NOW !\n\n"
 sudo rm install.sh
