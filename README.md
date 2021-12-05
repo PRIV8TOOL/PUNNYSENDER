@@ -10,7 +10,7 @@
 5) _`chmod 777 install.sh`_
 6) _`bash install.sh`_
 
-**Note :** _Whenever you logout the ROOT from putty remember to put command_ `cd PUNNYSENDER` _when you relogin._
+**Note :** _Whenever you logout the ROOT from putty remember to put command_ `cd PUNNYSENDER` _when you relogin. If you wanna re install sneder put this command `cd ..` then command `rm -rf PUNNYSENDER` first_
 
 <!-- CONTACT -->
 
